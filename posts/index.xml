@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cristóbal Lecaros C.</title>
-    <link>https://clecarosc.github.io/</link>
-    <description>Recent content on Cristóbal Lecaros C.</description>
+    <title>Posts on Cristóbal Lecaros C.</title>
+    <link>https://clecarosc.github.io/posts/</link>
+    <description>Recent content in Posts on Cristóbal Lecaros C.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Mar 2021 14:08:43 -0300</lastBuildDate><atom:link href="https://clecarosc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 14:08:43 -0300</lastBuildDate><atom:link href="https://clecarosc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prueba</title>
       <link>https://clecarosc.github.io/posts/prueba/</link>
