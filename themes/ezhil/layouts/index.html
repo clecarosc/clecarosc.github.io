@@ -1,0 +1,47 @@
+{{ define "header" }}
+<div class="header">
+	<img src={{ "profile.jpg" | absURL }} class="profile-image">
+	<div class="site-description">
+		<div>
+			<h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+			{{- with .Params.Subtitle -}}
+				<h2>{{ . | markdownify }}</h2>
+			{{- end -}}
+		</div>
+		<div class="align-right">
+			<nav class="nav social">
+				<ul class="flat">
+					{{- range $index, $key := .Site.Params.Social -}}
+					<a href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
+					{{- end -}}
+					{{- with .Site.Params.cv_name -}}
+						| <a href="{{ . }}">[cv]</a>
+					{{- end -}}
+				</ul>
+			</nav>
+			{{- with .Params.Email -}}
+			<a href="mailto:{{ . }}">{{ . }}</a>
+			{{- end -}}
+		</div>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			{{ $currentPage := . }}
+			{{ range .Site.Menus.main }}
+			<li>
+				{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+					<a href="{{ .URL }}" class="active">{{ .Name }}</a>
+				{{ else }}
+					<a href="{{ .URL }}">{{ .Name }}</a>
+				{{ end }}
+			</li>
+			{{ end }}
+		</ul>
+	</nav>
+</div>
+{{ end }}
+
+{{ define "main" }}
+	{{ .Content }}
+{{ end }}

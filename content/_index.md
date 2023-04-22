@@ -1,16 +1,16 @@
 +++
-email = "clecarosc@gmail.com"
+email = "crlecarosc@udd.cl"
 subtitle = "MD, MBI"
 +++
 
 Hello!       
 My name is Cristóbal Lecaros C.  
-I got my Medical Doctor (MD) degree from [Universidad de Antofagasta](http://www.uantof.cl/), and I also hold a Master in Biomedical Informatics (MBI) from [Universidad de Chile](https://cimt.uchile.cl/). I am living in Santiago doing my clinical work (i.e., inpatient & outpatient care) at [Clínica Indisa](https://www.indisa.cl/), and my research work at [Dermacross](https://www.dermacross.cl/).  
-I like skin diseases research. I am currently involved as a Sub-Investigator in some clinical trials evaluating biological drugs for atopic dermatitis, prurigo nodularis, alopecia areata, and chronic spontaneous urticaria. I am also collaborating with the [Global Psoriasis Atlas](https://globalpsoriasisatlas.org/) Project to study the burden of psoriasis in Chile.  
+I got my Medical Doctor (MD) degree from [Universidad de Antofagasta](http://www.uantof.cl/), and I also hold a Master in Biomedical Informatics (MBI) from [Universidad de Chile](https://cimt.uchile.cl/). I am living in Santiago doing my residency in dermatology at [Universidad del Desarrollo/Clínica Alemana de Santiago](https://www.udd.cl/).  
+I have collaborated with the [Global Psoriasis Atlas](https://globalpsoriasisatlas.org/) Project to study the burden of psoriasis in Chile.  
 I am keen to collaborate or to participate in any further academic activities or projects.  
  Please don't hesitate to contact me ✌️.
 
-**Interests**: Skin diseases, Clinical Trials, Statistical Programming (`R`), Reproducible Research, Clinical Informatics.    
+**Interests**: Dermatologic Image Analysis, Statistical Programming (`R`), Reproducible Research, Clinical Informatics.    
 
 
 ~

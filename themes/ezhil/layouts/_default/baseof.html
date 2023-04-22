@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+
+<body>
+	<div class="container wrapper">
+		{{ block "header" . }}
+			{{- partial "header.html" . -}}
+		{{ end }}
+		{{ block "main" . }}
+			<!-- Define block main to show content here -->
+		{{ end }}
+		{{ block "footer" . }}
+			{{- partial "footer.html" . -}}
+		{{ end }}
+	</div>
+</body>
+</html>
