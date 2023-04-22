@@ -44,7 +44,7 @@ paginate = 50
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
     subtitle = "MD"
-    cv_name = "cv20.pdf"
+    cv_name = "cv.pdf"
     #goatcounter = "prouvost"
 
 
