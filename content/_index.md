@@ -20,6 +20,8 @@ I am currently interested in dermatological imaging and computer science applica
 I had the great privilege of participating in the elaboration of the Clinical Guidelines for the management of Cutaneous Melanoma of the Chilean Society of Dermatology. The document was published in the Revista Chilena de Dermatología in 2022.\
 - [[paper](https://rcderm.org/index.php/rcderm/article/view/404)]()
 
+
+
 ## The epidemiology of psoriasis in Chile
 I have previously collaborated with the [Global Psoriasis Atlas](https://globalpsoriasisatlas.org/) Project to study the burden of psoriasis in Chile.  
 
