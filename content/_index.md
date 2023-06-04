@@ -16,13 +16,13 @@ I am currently interested in dermatological imaging and computer science applica
 
 ### Previous projects
 
-## Clinical Guidelines for the management of primary Cutaneous Melanoma of the Chilean Society of Dermatology.
+#### Clinical Guidelines for the management of primary Cutaneous Melanoma of the Chilean Society of Dermatology.
 I had the great privilege of participating in the elaboration of the Clinical Guidelines for the management of Cutaneous Melanoma of the Chilean Society of Dermatology. The document was published in the Revista Chilena de Dermatología in 2022.\
-- [[paper](https://rcderm.org/index.php/rcderm/article/view/404)]()
+- [[paper](https://rcderm.org/index.php/rcderm/article/view/404)]
 
 
 
-## The epidemiology of psoriasis in Chile
+#### The epidemiology of psoriasis in Chile
 I have previously collaborated with the [Global Psoriasis Atlas](https://globalpsoriasisatlas.org/) Project to study the burden of psoriasis in Chile.  
 
 - [Comorbidities in Chilean patients with psoriasis: a Global Healthcare Study on Psoriasis](). This research, part of the Global Psoriasis Project initiative, is the analysis of a survey done in multiple dermatological care campaigns in Chile during January 2020 to March 2020.\
